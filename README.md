@@ -2,6 +2,41 @@
 
 ![Global terrorism Analysis Dashboard](https://github.com/user-attachments/assets/d2af9fb0-1d3c-40f0-a115-50e6fa733873)
 
+# Global Terrorism Analysis (1970–2017)
+
+From **1970 to 2017**, terrorism evolved into a more **frequent**, **organized**, and **geographically concentrated** threat.  
+The data reveals a **dramatic surge** in attacks after **2013**, peaking in **2017** — driven largely by **conflicts in the Middle East** and the rise of extremist groups like **ISIL** and the **Taliban**.
+
+---
+
+## Key Insights
+
+- **Epicenters of Violence**  
+  Iraq, Pakistan, and Afghanistan account for the highest attack volumes, reflecting prolonged instability and insurgency.
+
+- **Tactics & Weapons**  
+  Explosives dominate as the most used and most effective weapon, followed by armed assaults and assassinations.
+
+- **Targets**  
+  Private citizens, government institutions, and police forces are the most frequently and successfully attacked, showing both symbolic and civilian-focused strategies.
+
+- **Groups**  
+  The Taliban remains the deadliest, with ISIL, Boko Haram, and Shining Path also showing sustained operational success.
+
+---
+
+## Strategic Implications
+
+Counterterrorism must focus on:
+1. **Regional hotspots**  
+2. **Disrupting explosive-based attacks**  
+3. **Protecting civilian populations** — not just state assets.
+
+---
+
+**Conclusion:** Terrorism thrives where instability, ideology, and capability intersect — and it adapts faster than many responses can keep up.
+
+
 --- 
 
 ![x mart sales dashboard](https://github.com/user-attachments/assets/fb6af5be-625e-41c7-b53f-56582b575aff)
