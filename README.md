@@ -54,9 +54,15 @@ The Financial Sales Analysis Report covering 2012–2014 shows total gross sales
 
 
 ---
+
+# Electronics Sales Analytics Dashboard 
+
 ![Electronic Sales Dashboard](https://github.com/user-attachments/assets/0fedb273-5131-4c3c-b03c-ac5dbb0aa110)
 
+The Electronics Sales Analytics Dashboard shows total revenue distributed across months, regions, salespeople, and customers, with steady performance throughout the year and peaks in June and November. The West region leads with 186K in revenue, followed by Central and East. Nancy Freehafer is the top-performing salesperson at 87K, while “Cash 01” is the highest‑spending customer at 62K. Most transactions are paid by credit card (52%), with checks and cash making up the rest. Revenue is concentrated in the 0–50K bin, and the business spans 24 products, 14 categories, and 12 shipping cities, reflecting a diverse yet regionally strong sales portfolio.
+
 ---
+
 ![ECOMMERCE SALES ANALYSIS](https://github.com/user-attachments/assets/909c6f4a-55c6-492a-a5dc-be41b531ddff)
 
 ---
