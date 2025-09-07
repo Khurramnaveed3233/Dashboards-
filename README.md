@@ -4,6 +4,10 @@
 
 --- 
 
+![x mart sales dashboard](https://github.com/user-attachments/assets/fb6af5be-625e-41c7-b53f-56582b575aff)
+
+---
+
 ![Financial Sales Analysis](https://github.com/user-attachments/assets/7d1f0356-4e6b-4626-ad9f-16852e460c94)
 
 ---
