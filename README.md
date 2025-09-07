@@ -1,8 +1,8 @@
 # Dashboards
 
-![Global terrorism Analysis Dashboard](https://github.com/user-attachments/assets/d2af9fb0-1d3c-40f0-a115-50e6fa733873)
-
 # Global Terrorism Analysis (1970–2017)
+
+![Global terrorism Analysis Dashboard](https://github.com/user-attachments/assets/d2af9fb0-1d3c-40f0-a115-50e6fa733873)
 
 From **1970 to 2017**, terrorism evolved into a more **frequent**, **organized**, and **geographically concentrated** threat.  
 The data reveals a **dramatic surge** in attacks after **2013**, peaking in **2017** — driven largely by **conflicts in the Middle East** and the rise of extremist groups like **ISIL** and the **Taliban**.
