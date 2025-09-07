@@ -71,10 +71,17 @@ The Ecommerce Sales Analysis Dashboard for 2022 reports total sales of $484.25K,
 
 ---
 
+#  Data Professional Survey Breakdown
+
 ![Data Professionals Survey Breakdown](https://github.com/user-attachments/assets/a4528e64-42d5-4a81-8f77-b890ec48ea5c)
 
+The Data Professional Survey Breakdown reveals insights from 630 respondents, averaging 29.87 years of age, with a male majority of 83.3%, females at 13.2%, and others at 3.5%. The United States, India, and the United Kingdom lead in participant representation. Average satisfaction scores are 5.74 for work‑life balance and 5.61 for salary. Python and SQL are the most popular programming languages across roles such as Data Scientist, Data Analyst, and Data Engineer. Salary analysis shows Data Scientists earning the highest averages, followed by Data Engineers and Data Architects. Overall, the survey highlights a young, male‑dominated workforce with strong Python adoption, moderate job satisfaction, and competitive salaries in technical roles.
+
 ---
+
 ![Customer Churn Analysis Insights and Recommendations](https://github.com/user-attachments/assets/3055317b-0335-43fd-b60d-601d80f70503)
+
+
 
 ---
 ![CRM Dahboard in GoogleSheet](https://github.com/user-attachments/assets/a336f772-f765-449a-a3f5-0b679bb082ac)
