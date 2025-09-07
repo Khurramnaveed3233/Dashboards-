@@ -63,9 +63,14 @@ The Electronics Sales Analytics Dashboard shows total revenue distributed across
 
 ---
 
+#  Ecommerce Sales Analysis Dashboard
+
 ![ECOMMERCE SALES ANALYSIS](https://github.com/user-attachments/assets/909c6f4a-55c6-492a-a5dc-be41b531ddff)
 
+The Ecommerce Sales Analysis Dashboard for 2022 reports total sales of $484.25K, generating $49.58K in profit from 7,581 units across 1,993 orders, with a profit margin of 10.23% and year‑over‑year growth of over 14% in all key metrics. Office Supplies, Furniture, and Technology drive sales, with Phones, Chairs, and Storage leading sub‑categories. Strong sales are spread across multiple U.S. states, supported by consistent monthly performance and healthy category‑wise profit contributions, reflecting a balanced and steadily growing ecommerce operation.
+
 ---
+
 ![Data Professionals Survey Breakdown](https://github.com/user-attachments/assets/a4528e64-42d5-4a81-8f77-b890ec48ea5c)
 
 ---
