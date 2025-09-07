@@ -46,7 +46,12 @@ X‑Mart achieved ₹99M in sales over a three‑year period, delivering ₹23M 
 
 ---
 
+# Financial Sales Analysis
+
 ![Financial Sales Analysis](https://github.com/user-attachments/assets/7d1f0356-4e6b-4626-ad9f-16852e460c94)
+
+The Financial Sales Analysis Report covering 2012–2014 shows total gross sales of $128M, generating $17M in profit from 1.1M units sold. Segment A led with $56M in sales, followed closely by Segment B at $52M, while Segment C contributed $21M. Product A recorded the highest units sold and the largest share of profit, alongside strong contributions from Products B and C. Discounts were most significant for Products A and D, each accounting for around 28% of total discounts. Overall, the data reflects balanced performance across segments, with profitability driven by top‑selling products and steady sales distribution across markets.
+
 
 ---
 ![Electronic Sales Dashboard](https://github.com/user-attachments/assets/0fedb273-5131-4c3c-b03c-ac5dbb0aa110)
