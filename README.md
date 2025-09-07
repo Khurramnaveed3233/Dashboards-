@@ -36,14 +36,14 @@ Counterterrorism must focus on:
 
 **Conclusion:** Terrorism thrives where instability, ideology, and capability intersect — and it adapts faster than many responses can keep up.
 
-
 --- 
 
 # X Mart Sales Dashboard
 
 ![x mart sales dashboard](https://github.com/user-attachments/assets/fb6af5be-625e-41c7-b53f-56582b575aff)
 
-X‑Mart recorded ₹99M in sales over three years, generating ₹23M in profit from 5,095 transactions and 13K units sold. Electronics led all categories in quantity sold, while Intel held the largest brand share at 19%. Maharashtra, Karnataka, Tamil Nadu, and Gujarat emerged as top‑performing states. The sales mix shows balanced contributions across categories, with strong profitability driven by high‑value electronics and leading tech brands.
+X‑Mart achieved ₹99M in sales over a three‑year period, delivering ₹23M in profit from 5,095 transactions and 13K units sold. Electronics dominated category performance by volume, while Intel secured the top brand position with a 19% market share. Maharashtra, Karnataka, Tamil Nadu, and Gujarat stood out as the highest‑performing states. Overall, the sales portfolio reflects a well‑balanced category mix, with profitability fueled by premium electronics and leading technology brands.
+
 ---
 
 ![Financial Sales Analysis](https://github.com/user-attachments/assets/7d1f0356-4e6b-4626-ad9f-16852e460c94)
